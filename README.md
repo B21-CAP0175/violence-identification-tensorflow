@@ -56,7 +56,7 @@ _________________________________________________________________
 - `/'dataset` is where we store our dataset.
 - `/tflite` is where our model is.
 - any `.json` file is our audio features used for training.
-- Python Notebook (`.ipynb`) files for straight python implementation. We made them seperate. But if you want to see it prepare, train, and test the model in one go, use `prepare-train-predict.ipynb`
+- Python Notebook (`.ipynb`) files for straight python implementation. If you want to see it prepare, train, and test the model in one go, use `prepare-train-predict.ipynb`
 - any `.h5` file is a saved neural network model.
 - `/img` is only for this README purpose.
 
